@@ -1,3 +1,7 @@
+
+### The README for run_analysis.R function is directly documented in the code
+
+
 ### Introduction
 
 This second programming assignment will require you to write an R
